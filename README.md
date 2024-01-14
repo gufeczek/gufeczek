@@ -21,3 +21,14 @@ My name is Michał and I am a Junior Android Developer. I graduated from Lublin 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" class="devicon"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" class="devicon"/>
 </p>
+
+<style>
+.devicon {
+  max-width: 4em;
+}
+
+/* if you want to change the original color */
+.devicon path {
+  fill: #4691f6;
+}
+</style>
