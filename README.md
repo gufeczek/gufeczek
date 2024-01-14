@@ -1,6 +1,6 @@
 ### Hi there
 
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/kotlin.svg'>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
 
 
 <!--
