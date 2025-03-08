@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Hello, I'm Michał - a passionate Junior Android Developer with a Computer Science degree from Lublin University of Technology. I currently build Android apps at Posnet Polska S.A., where I transform complex challenges into simple, effective solutions
+Hello, I'm Michał - a passionate Junior Android Developer with a Computer Science degree from Lublin University of Technology. I currently build Android apps at Posnet Polska S.A., where I transform complex challenges into simple, effective solutions.
 
 ## Tool Kit
 
